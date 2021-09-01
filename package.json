@@ -20,5 +20,8 @@
     "type": "git",
     "url": "git+https://github.com/BarrelBrenner/redux-store.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.1"
+  }
 }
